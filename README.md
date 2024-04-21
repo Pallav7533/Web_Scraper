@@ -1,6 +1,6 @@
 ## Web Scrapper using Python
 
-## Pallav's PortFolio
+
 
 <div align="center">
   <img alt="Demo" src="https://github.com/Pallav7533/Web_Scraper/blob/main/images/main.png" />
